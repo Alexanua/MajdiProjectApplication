@@ -2,7 +2,8 @@ package com.Majdi.Majdi_Project.controller;
 
 import com.Majdi.Majdi_Project.Entity.Message;
 
-import com.Majdi.Majdi_Project.Service.MessageService;
+
+import com.Majdi.Majdi_Project.service.MessageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
