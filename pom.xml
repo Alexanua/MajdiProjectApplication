@@ -75,6 +75,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>Majdi_Project</finalName> <!-- Säkerställ att detta är det korrekta namnet på din JAR -->
+		<finalName>MajdiPorjectApplication-main</finalName> <!-- Säkerställ att detta är det korrekta namnet på din JAR -->
 	</build>
 </project>
